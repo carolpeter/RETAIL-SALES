@@ -41,29 +41,29 @@ This project involves analyzing retail sales data using SQL. The goal is to gene
 
 ## Power BI Visualizations
 
-### Monthly Sales Comparison by Product Category
+### Retail sales analysis
 
-![Monthly Sales Comparison by Product Category](images/sales_comparison.png)
+Retail Sales Trends .png
 
 This image contains six charts showing various aspects of retail sales analysis.
 
-1. **Chart 1 - Total Sales by Category**  
-   This chart shows the total sales amount for each product category, helping identify the highest-grossing categories.
+1. **Chart 1 - TOTAL UNITS SOLD PER CATEGORY**  
+   This chart shows the total units sold for each product category, helping identify the highest selling categories.
 
-2. **Chart 2 - Units Sold by Gender**  
-   This chart visualizes the number of units sold, broken down by gender. It provides insights into sales trends based on customer gender.
+2. **Chart 2 - AGE-WISE PURCHASE PATTERN BY CATEGORY**  
+   This line chart visualizes the number of units sold, broken down by age. It provides insights into sales trends based on customer age.
 
-3. **Chart 3 - Sales Trend by Month**  
-   This line chart shows the sales trend over different months, helping track seasonal fluctuations and identify high and low sales months.
+3. **Chart 3 - TOTAL SALES BY CATEGORY**  
+   This chart shows the sales across different categories, helping track and identify high and low sales product catogory.
 
-4. **Chart 4 - Sales Distribution by Shift**  
+4. **Chart 4 - UNITS SOLD BY CATEGORY ACROSS SHIFTS**  
    This chart breaks down sales by shift (Morning, Afternoon, Evening), showing the busiest periods for sales.
 
-5. **Chart 5 - Sales by Age Group**  
-   This bar chart shows the sales performance across different age groups, helping understand which demographics are driving sales.
+5. **Chart 5 - GENDER-BASED SALES COMPARISON BY CATEGORY**  
+   This chart shows the sales performance across different genders, helping understand which demographics are driving sales.
 
-6. **Chart 6 - Customer Purchases by Region**  
-   This pie chart visualizes the distribution of customer purchases across different regions.
+6. **Chart 6 - MONTHLY SALES COMPARISON BY CATEGORY**  
+   This chart visualizes the distribution of sales across different months.
 
 ### Conclusion
 
